@@ -14,6 +14,6 @@ ideafuse/
 
 ## License
 
-Each listed source code is licensed under The MIT License under the name of
+Each source code is licensed under The MIT License and using the name of
 COMTRAN.
 
