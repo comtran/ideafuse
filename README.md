@@ -18,11 +18,15 @@ ideafuse/
 
 #### Qualification Round (8 Problems)
 
-- KatanyaMabaGabolehNgegas (Rank 27, Solved 5)
+- KatanyaMabaGabolehNgegas (Rank 27, Solved 5) **finalist**
 - RakyatTidakOsjur (Rank 51, Solved 4)
+
+#### Final Round
+
+Doesn't go to the final. Preparing COMTRAN.
 
 ## License
 
-Each source code is licensed under The MIT License and using the name of
+Each source code licensed under The MIT License and using the name of
 COMTRAN.
 
