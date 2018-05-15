@@ -12,6 +12,15 @@ ideafuse/
         └── (solution).(extension)
 ```
 
+## Track Records
+
+### 2018
+
+#### Qualification Round (8 Problems)
+
+- KatanyaMabaGabolehNgegas (Rank 27, Solved 5)
+- RakyatTidakOsjur (Rank 51, Solved 4)
+
 ## License
 
 Each source code is licensed under The MIT License and using the name of
