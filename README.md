@@ -25,6 +25,15 @@ ideafuse/
 
 Doesn't go to the final. Preparing COMTRAN.
 
+### 2019
+
+#### Qualification Round (8 Problems)
+
+- NyariDuitTerooz (Rank ?, Solved 7)
+- Tuman (Rank ?, Solved 7)
+- LinuxGratisan (Rank ?, Solved 5)
+- Prima (Rank ?, Solved 4)
+
 ## License
 
 Each source code licensed under The MIT License and using the name of
