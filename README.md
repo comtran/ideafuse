@@ -29,10 +29,10 @@ Doesn't go to the final. Preparing COMTRAN.
 
 #### Qualification Round (8 Problems)
 
-- NyariDuitTerooz (Rank ?, Solved 7)
-- Tuman (Rank ?, Solved 7)
-- LinuxGratisan (Rank ?, Solved 5)
-- Prima (Rank ?, Solved 4)
+- NyariDuitTerooz (Rank 13, Solved 7) **finalist**
+- Tuman (Rank 14, Solved 7) **finalist**
+- LinuxGratisan (Rank 28, Solved 5) **finalist**
+- Prima (Rank 49, Solved 4) **finalist**
 
 ## License
 
